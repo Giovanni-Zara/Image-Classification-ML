@@ -44,7 +44,7 @@ To develop a machine learning model capable of mapping images from the simulatio
 The project includes a video showcasing the model in action within the simulation environment. This video demonstrates the car's ability to navigate the circuit using predictions from the trained model.
 
 
-[![Watch the Simulation](videos/simulation-thumbnail.png)](videos/simulation_CNN4_categorical_crossentropy.mp4)
+[![Watch the Simulation](simulation_videos/simulation-thumbnail.png)](simulation_videos/simulation_CNN4_categorical_crossentropy.mp4)
 
 
 ## Acknowledgments
